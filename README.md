@@ -1,4 +1,4 @@
-# Github para programadores tutorial
+# Github para desarroladores tutorial
 
 prueba de repositorio
 
